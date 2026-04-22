@@ -3,9 +3,9 @@ layout: default
 title: My Blog
 ---
 
-# Welcome to My Tech Blog 🚀
+# Welcome to Coonect2Aryans Tech Blog 🚀
 
-I share blogs about gaming PCs, components, and buying guides.
+We share blogs about gaming PCs, How-To Guides, Product Comparisons, and buying guides.
 
 ## Latest Posts
 
