@@ -8,4 +8,7 @@ title: My Blog
 I share blogs about gaming PCs, components, and buying guides.
 
 ## Latest Posts
-- Coming soon...
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
