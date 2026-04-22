@@ -1,8 +1,34 @@
-h1 { font-size: 28px !important; }
-h2 { font-size: 22px !important; }
-h3 { font-size: 18px !important; }
+/* Better professional sizing */
 
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 17px;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+/* Improve spacing */
+h1, h2, h3 {
+  margin-top: 18px;
+  margin-bottom: 8px;
+}
+
+/* Body text */
 body {
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* Content width */
+.wrapper {
+  max-width: 850px;
 }
