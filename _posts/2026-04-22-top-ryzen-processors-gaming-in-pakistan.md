@@ -7,7 +7,7 @@ tags: [Ryzen Processors, Gaming PC, Ryzen 5, Ryzen 7, Ryzen 9, Pakistan]
 author: Connect2Aryans
 ---
 
-<img src="/assets/images/FILENAME.jpg" style="width:100%; border-radius:10px; margin:20px 0;">
+<img src="/assets/images/Ryzen-Processors.jpg" style="width:100%; border-radius:10px; margin:20px 0;">
 
 <div style="text-align:center; margin-bottom:25px;">
 <a href="XXXX" target="_blank" style="background:#007bff; color:white; padding:12px 25px; border-radius:6px; text-decoration:none; font-weight:bold;">
