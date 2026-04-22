@@ -2,7 +2,7 @@
 layout: post
 title: "Best AMD Ryzen Processors for Gaming & Productivity in 2026"
 date: 2026-04-22
-categories: [Processors, Intel, Gaming, Guides]
+categories: [Processors, Ryzen, Gaming, Guides]
 tags: [Intel Processors, Gaming PC, Core i5, Core i7, Core i9, Xeon, Pakistan]
 author: Connect2Aryans
 ---
